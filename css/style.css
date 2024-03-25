@@ -469,3 +469,16 @@
 .footer .copyright a:hover {
     color: #FFFFFF;
 }
+
+/*  */
+@media only screen and (max-width: 768px) {
+    .banner-img1 {
+
+
+    }
+
+}
+
+.imgbanner{
+max-height: 630px;
+}
